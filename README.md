@@ -1,3 +1,5 @@
+> **⚠️ DEPRECATED:** This project has been archived and is no longer maintained. Please use our new project instead: **[shuvcode](https://github.com/Latitudes-Dev/shuvcode)** | [shuv.ai](https://shuv.ai)
+
 > **Note:** This is an independent, community-maintained project created by fans of OpenCode. We are not affiliated with SST Corp. or the official OpenCode project. For the official OpenCode CLI, visit [opencode.ai](https://opencode.ai).
 >
 > **Last Updated:** November 26, 2025
